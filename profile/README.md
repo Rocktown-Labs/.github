@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://rocktownlabs.com">
-    <img src="./rocktown-icon.png" width="135" alt="Rocktown Labs" />
+    <img src="./assets/rocktown-icon.png" width="135" alt="Rocktown Labs" />
   </a>
 </p>
 
